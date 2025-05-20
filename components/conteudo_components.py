@@ -1,1 +1,0 @@
-# Nesta pasta temos os botões e cards do projeto (reutilizaveis).
